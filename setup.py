@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='AutoGAN_Test',
+setup(name='AutoGAN',
       version='0.0.5',
       description='GANs were never easier',
 	  classifiers=[
